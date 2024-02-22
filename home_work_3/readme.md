@@ -150,4 +150,4 @@ Memory statisctic in container:
 Mysql version is:
 mysql  Ver 14.14 Distrib 5.7.30-33, for debian-linux-gnu (x86_64) using  6.3
 ```
-# ПОСЛЕ ОКОНЧАНИЯ РАБОТЫ НЕ ЗАБУДТЬЕ ВЫПОЛНИТЬ ```docker compose down```
+# ПОСЛЕ ОКОНЧАНИЯ РАБОТЫ НЕ ЗАБУДТЬЕ ВЫПОЛНИТЬ ```exit``` и покасить контейнер ```docker compose down```
